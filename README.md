@@ -31,8 +31,7 @@ To install the required packages, open a terminal and run:
 An executable version of DriveScan V1.0 is available for Windows users. You can [download it](link-to-executable). The executable version doesn't require Python to be installed.
 
 ## Author
-Rajput Shubhraj Singh
-GitHub: [https://github.com/shuuubhraj](https://github.com/shuuubhraj)
+GitHub: [@Shuuubhraj](https://github.com/shuuubhraj)
 
 ## Disclaimer
 **WARNING!** This tool might experience slowdowns or potential unresponsiveness when analyzing directories with a large number of small files. Use with caution and consider the potential impact on system performance.
